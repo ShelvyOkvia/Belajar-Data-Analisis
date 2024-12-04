@@ -76,7 +76,7 @@ Learn-Data-Analysis/
 ## 📧 Kontak
 
 Punya pertanyaan atau saran? Jangan ragu untuk menghubungi:
-- **GitHub**: [YourUsername](https://github.com/ShelvyOkvia)
+- **GitHub**: [Shelvy Okvia](https://github.com/ShelvyOkvia)
 - **Email**: shelvy.okvia@outlook.com
 
 ---
